@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  6 18:34:25 2025
 
-@author: USUARIO
+@author: aarevaloa
 """
 
 # secuencia de Fibonacci
